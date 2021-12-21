@@ -31,29 +31,19 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="C:/Users/HUONG LAN/Downloads/release/Makefile" />
-		<Unit filename="C:/Users/HUONG LAN/Downloads/release/hashtable.c">
+		<Unit filename="hashtable.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="C:/Users/HUONG LAN/Downloads/release/hashtable.h" />
-		<Unit filename="C:/Users/HUONG LAN/Downloads/release/hashtable_main.c">
+		<Unit filename="hashtable.h" />
+		<Unit filename="linkedlist.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="C:/Users/HUONG LAN/Downloads/release/linkedlist.c">
+		<Unit filename="linkedlist.h" />
+		<Unit filename="riscv.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="C:/Users/HUONG LAN/Downloads/release/linkedlist.h" />
-		<Unit filename="C:/Users/HUONG LAN/Downloads/release/linkedlist_main.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="C:/Users/HUONG LAN/Downloads/release/riscv.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="C:/Users/HUONG LAN/Downloads/release/riscv.h" />
-		<Unit filename="C:/Users/HUONG LAN/Downloads/release/riscv_interpreter.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="main.c">
+		<Unit filename="riscv.h" />
+		<Unit filename="riscv_interpreter.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1640013136 source:e:\informatics\icpc\project4\gitproject4\linkedlist_main.c
+	<stdio.h>
+	"linkedlist.h"
+
+1621430836 e:\informatics\icpc\project4\gitproject4\linkedlist.h
+
+1640021627 source:e:\informatics\icpc\project4\gitproject4\hashtable.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"hashtable.h"
+
+1621430836 e:\informatics\icpc\project4\gitproject4\hashtable.h
+
+1621430836 source:e:\informatics\icpc\project4\gitproject4\hashtable_main.c
+	<stdio.h>
+	"hashtable.h"
+
+1640014307 source:e:\informatics\icpc\project4\gitproject4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
+1639989283 source:e:\informatics\icpc\project4\gitproject4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1621430836 source:e:\informatics\icpc\project4\gitproject4\riscv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"linkedlist.h"
+	"hashtable.h"
+	"riscv.h"
+
+1621430836 e:\informatics\icpc\project4\gitproject4\riscv.h
+
+1621430836 source:e:\informatics\icpc\project4\gitproject4\riscv_interpreter.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"riscv.h"
+
