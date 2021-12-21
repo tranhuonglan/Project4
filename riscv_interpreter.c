@@ -58,9 +58,9 @@ char *ltrim_spaces(char *s)
 void handle_start(char *s, registers_t *registers)
 {
     char *start = strstr(s, COMMENT_START);
-    strsep(&start, "[");
-    int r = atoi(strsep(&start, "]"));
-    strsep(&start, "=");
+    strtok(start, "[");
+    int r = atoi(strtok(start, "]"));
+    strtok(start, "=");
     int v = (int)strtol(start, NULL, 0);
     if (r > 0 && r < 32)
     {
